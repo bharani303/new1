@@ -1399,6 +1399,9 @@ padding-left: 10%;
   padding-top:55px ;
 
 }
+.content h1{
+  font-size: 2rem;
+}
 
    video {
   width: 100%;
@@ -1500,7 +1503,8 @@ top:35px;
     display: none;
 }
 .content span{
-    font-size: 1.1rem;
+    font-size :1.3rem;;
+    color: rgb(31, 30, 29);
   
  }
 
