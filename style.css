@@ -431,7 +431,7 @@ button.learn-more-unique:hover .button-text {
 .h2datas {
   margin-bottom: 30px;
 
-  font-weight: lighter;
+  font-weight: 1rem;
 }
 
 
@@ -502,7 +502,7 @@ button.learn-more-unique:hover .button-text {
 
 .h2datas {
   margin-bottom: 30px;
-  font-weight: lighter;
+  font-weight: 1rem;
   color: rgb(81, 81, 81);
 }
 
@@ -589,7 +589,7 @@ button.learn-more-unique:hover .button-text {
         flex-direction: column;
        }
        .content span{
-        font-weight: lighter;
+        font-weight: 1rem;
         padding-right: 50px;
        }
        .image{
@@ -790,7 +790,7 @@ button.learn-more-unique:hover .button-text {
         width: 280px;
         height: 250px;
         margin-top: 50px;
-        font-weight: lighter;
+        font-weight: 1rem;
         background-color: white;
         border-radius: 20px;
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -1476,7 +1476,7 @@ padding-right:20px;
 
 }
  .content{
-    font-size: .9rem;
+    font-size: 1.5rem;
 z-index: 1;
 width: 90%;
 padding: 0px;
