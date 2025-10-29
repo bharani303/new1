@@ -665,7 +665,7 @@ button.learn-more-unique:hover .button-text {
         
        }
        .courses p{
-        font-weight: 50;
+        font-weight: 1rem;
        }
        .courses:hover{
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
